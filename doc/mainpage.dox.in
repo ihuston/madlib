@@ -138,7 +138,6 @@ Interface and implementation are subject to change. @}
     @ingroup grp_early_stage
 
     @defgroup grp_sketches Cardinality Estimators
-    @{A collection of methods to estimate the number of unique values contained in the data. @}
     @ingroup grp_early_stage
 
         @defgroup grp_countmin CountMin (Cormode-Muthukrishnan)
