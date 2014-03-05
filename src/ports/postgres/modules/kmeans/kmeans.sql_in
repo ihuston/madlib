@@ -277,7 +277,6 @@ FROM public.km_sample as data,
                            'madlib.avg', 20, 0.001)) as centroids
 ORDER BY data.pid;
 </pre>
-
 <pre class="result">
  pid |                               points                               | cluster_id
 -----+--------------------------------------------------------------------+------------
